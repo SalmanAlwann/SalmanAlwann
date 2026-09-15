@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="470px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.add {fill: #1a7f37;}
+.del {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+text {fill: #24292f;}
+@keyframes fade { from {opacity: 0;} to {opacity: 1;} }
+@keyframes type { 0% {opacity: 0; clip-path: inset(0 100% 0 0);} 1% {opacity: 1;} 100% {opacity: 1; clip-path: inset(0 0 0 0);} }
+.ascii {animation: fade .4s ease-out both;}
+.line {animation: type .5s steps(30, end) both;}
+@media (prefers-reduced-motion: reduce) { .ascii, .line {animation: none;} }
+</style>
+<rect width="985px" height="470px" fill="#f6f8fa" rx="15"/>
+<text x="178.2" y="50" textLength="76.8" class="ascii" style="animation-delay:0.21s">\\----//</text>
+<text x="130.2" y="70" textLength="163.2" class="ascii" style="animation-delay:0.27s">\\----=#*+#++=-//</text>
+<text x="101.4" y="90" textLength="201.6" class="ascii" style="animation-delay:0.33s">\\\++-::=*#+=+-:+-::/</text>
+<text x="72.6" y="110" textLength="240" class="ascii" style="animation-delay:0.39s">\\\:-*:-=-=--:.    -=-:-|</text>
+<text x="63" y="130" textLength="259.2" class="ascii" style="animation-delay:0.45s">\:-=-+**-=+:.   ..:--#+*=-|</text>
+<text x="43.8" y="150" textLength="278.4" class="ascii" style="animation-delay:0.51s">\\*----.=::.:-:-----==+#=*#-|</text>
+<text x="34.2" y="170" textLength="307.2" class="ascii" style="animation-delay:0.57s">|:##**=---=---..::     -*+=+=-//</text>
+<text x="34.2" y="190" textLength="316.8" class="ascii" style="animation-delay:0.63s">|+%@@=::-:==-:. .... .-=-==*.   |</text>
+<text x="24.6" y="210" textLength="326.4" class="ascii" style="animation-delay:0.69s">|=@@@+ . +: .:...:::.    ...:-:::=</text>
+<text x="34.2" y="230" textLength="316.8" class="ascii" style="animation-delay:0.75s">|@@#+ . ==---::::::.      .==..|\</text>
+<text x="34.2" y="250" textLength="316.8" class="ascii" style="animation-delay:0.81s">|%@@%#-:..  =+=-:.... . ..-. :-||</text>
+<text x="34.2" y="270" textLength="326.4" class="ascii" style="animation-delay:0.87s">|*@@@%=-*%%==##+==---:::-=:.  ..//</text>
+<text x="43.8" y="290" textLength="326.4" class="ascii" style="animation-delay:0.93s">|@@@%=-+#: .%@%##*%#%#%@##*+==--:/</text>
+<text x="53.4" y="310" textLength="316.8" class="ascii" style="animation-delay:0.99s">-@@%==+=.  :+*++*##%@@%@%##@%@#=\</text>
+<text x="63" y="330" textLength="297.6" class="ascii" style="animation-delay:1.05s">/=#+=**-.  :++=-::::--+#%%%=\\\</text>
+<text x="82.2" y="350" textLength="230.4" class="ascii" style="animation-delay:1.11s">/-=*#+:.  :=++=-:..\----</text>
+<text x="82.2" y="370" textLength="192" class="ascii" style="animation-delay:1.17s">|=++##=-...:-==---=|</text>
+<text x="82.2" y="390" textLength="192" class="ascii" style="animation-delay:1.23s">|#*##%*=:..:-=++++*|</text>
+<text x="72.6" y="410" textLength="220.8" class="ascii" style="animation-delay:1.29s">\|++=-*#+: :==+*++++/__</text>
+<text x="15" y="430" textLength="355.2" class="ascii" style="animation-delay:1.35s">___--\.:::..:=+: ....:==+=++- -------</text>
+<text x="149.4" y="450" textLength="220.8" class="ascii" style="animation-delay:1.41s">..                    |</text>
+<text x="390" y="30" textLength="576" class="line" style="animation-delay:0.50s">salman@alwan -———————————————————————————————————————————-—-</text>
+<text x="390" y="50" textLength="576" class="line" style="animation-delay:0.57s"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan></text>
+<text x="390" y="70" textLength="576" class="line" style="animation-delay:0.64s"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Technion - Israel Institute of Technology</tspan></text>
+<text x="390" y="90" textLength="576" class="line" style="animation-delay:0.71s"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">CS Student</tspan></text>
+<text x="390" y="110" textLength="576" class="line" style="animation-delay:0.78s"><tspan class="cc">. </tspan><tspan class="key">Certification</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Certified SOC Analyst</tspan></text>
+<text x="390" y="130" textLength="19.2" class="line" style="animation-delay:0.85s"><tspan class="cc">. </tspan></text>
+<text x="390" y="150" textLength="576" class="line" style="animation-delay:0.92s"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">C, C++, Python, Bash, C#, Java</tspan></text>
+<text x="390" y="170" textLength="576" class="line" style="animation-delay:0.99s"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Linux, AWS, Git, GitHub, AI</tspan></text>
+<text x="390" y="190" textLength="19.2" class="line" style="animation-delay:1.06s"><tspan class="cc">. </tspan></text>
+<text x="390" y="210" textLength="576" class="line" style="animation-delay:1.13s"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Security</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Cybersecurity, OSINT</tspan></text>
+<text x="390" y="230" textLength="576" class="line" style="animation-delay:1.20s"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Teams</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Red Team, Blue Team</tspan></text>
+<text x="390" y="250" textLength="576" class="line" style="animation-delay:1.27s"><tspan class="cc">. </tspan><tspan class="key">Project</tspan>.<tspan class="key">DorkSuite</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Generator, Scanner, SQLi Tester</tspan></text>
+<text x="390" y="290" textLength="576" class="line" style="animation-delay:1.41s">- Contact -——————————————————————————————————————————————-—-</text>
+<text x="390" y="310" textLength="576" class="line" style="animation-delay:1.48s"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">salmanalwan</tspan></text>
+<text x="390" y="330" textLength="576" class="line" style="animation-delay:1.55s"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">salman.alwan</tspan></text>
+<text x="390" y="350" textLength="576" class="line" style="animation-delay:1.62s"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">tkvaa.com</tspan></text>
+<text x="390" y="390" textLength="576" class="line" style="animation-delay:1.76s">- GitHub Stats -—————————————————————————————————————————-—-</text>
+<text x="390" y="410" textLength="576" class="line" style="animation-delay:1.83s"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">15</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">18</tspan></text>
+<text x="390" y="430" textLength="576" class="line" style="animation-delay:1.90s"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">83</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">12</tspan></text>
+<text x="390" y="450" textLength="576" class="line" style="animation-delay:1.97s"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">23,983</tspan> ( <tspan class="add">40,637++</tspan>, <tspan class="del">16,654--</tspan> )</text>
+</svg>

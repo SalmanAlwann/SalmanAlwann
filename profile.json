@@ -1,0 +1,22 @@
+{
+  "login": "SalmanAlwann",
+  "title": "salman@alwan",
+  "info": [
+    ["OS", "macOS, Linux"],
+    ["Host", "Technion - Israel Institute of Technology"],
+    ["Kernel", "CS Student"],
+    ["Certification", "Certified SOC Analyst"],
+    ".",
+    ["Languages.Programming", "C, C++, Python, Bash, C#, Java"],
+    ["Languages.Tools", "Linux, AWS, Git, GitHub, AI"],
+    ".",
+    ["Focus.Security", "Cybersecurity, OSINT"],
+    ["Focus.Teams", "Red Team, Blue Team"],
+    ["Project.DorkSuite", "Generator, Scanner, SQLi Tester"]
+  ],
+  "contact": [
+    ["LinkedIn", "salmanalwan"],
+    ["Instagram", "salman.alwan"],
+    ["Website", "tkvaa.com"]
+  ]
+}

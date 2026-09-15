@@ -1,0 +1,86 @@
+{
+  "repos": 15,
+  "contributed": 15,
+  "stars": 18,
+  "followers": 12,
+  "commits": 83,
+  "additions": 40637,
+  "deletions": 16654,
+  "per_repo": {
+    "BattleShip": {
+      "commits": 10,
+      "additions": 136,
+      "deletions": 36
+    },
+    "FKData": {
+      "commits": 7,
+      "additions": 321,
+      "deletions": 7
+    },
+    "JustFaQ": {
+      "commits": 1,
+      "additions": 27,
+      "deletions": 0
+    },
+    "ProxGo": {
+      "commits": 4,
+      "additions": 162,
+      "deletions": 2
+    },
+    "PushAutomationBatch": {
+      "commits": 1,
+      "additions": 18,
+      "deletions": 0
+    },
+    "SalmanAlwann": {
+      "commits": 6,
+      "additions": 106,
+      "deletions": 19
+    },
+    "TechGradeOn": {
+      "commits": 29,
+      "additions": 30939,
+      "deletions": 14838
+    },
+    "faqChat": {
+      "commits": 1,
+      "additions": 94,
+      "deletions": 0
+    },
+    "faqCombo": {
+      "commits": 7,
+      "additions": 1101,
+      "deletions": 2
+    },
+    "faqMailAccess": {
+      "commits": 6,
+      "additions": 1971,
+      "deletions": 1746
+    },
+    "faqTool": {
+      "commits": 1,
+      "additions": 4559,
+      "deletions": 0
+    },
+    "igSuck": {
+      "commits": 1,
+      "additions": 578,
+      "deletions": 0
+    },
+    "kwTool": {
+      "commits": 2,
+      "additions": 472,
+      "deletions": 1
+    },
+    "scanPie": {
+      "commits": 6,
+      "additions": 71,
+      "deletions": 3
+    },
+    "zUpgrade": {
+      "commits": 1,
+      "additions": 82,
+      "deletions": 0
+    }
+  }
+}
